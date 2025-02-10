@@ -52,7 +52,7 @@ This project integrates Google Places API for address verification and autofill 
 6. (Optional) Restrict the API key to prevent unauthorized use.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License, which allows for permissive reuse of the code with attribution. You are free to use, modify, and distribute this project, provided that the original license terms are included.
 
 ## Contributions
 Contributions are welcome! Please submit a pull request or open an issue.
