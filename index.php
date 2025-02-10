@@ -89,12 +89,12 @@
 
     <label>City:</label>
     <select name="city" id="city">
-        <option value="">Select City</option>
+        <option value="">Verified City</option>
     </select>
 
     <label>State:</label>
     <select name="state" id="state" disabled>
-        <option value="">Select State</option>
+        <option value="">Verified State</option>
     </select>
 
     <label>ZIP Code:</label>
