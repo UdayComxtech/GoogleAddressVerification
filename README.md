@@ -17,7 +17,7 @@ This project integrates Google Places API for address verification and autofill 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/google-address-verification.git
+   git clone https://github.com/UdayComxtech/google-address-verification.git
    cd google-address-verification
    ```
 
